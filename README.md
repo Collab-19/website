@@ -16,7 +16,7 @@ By creating a decentralized autonomous organizataion (DAO) people from all over 
 
 📢 | [**Twitter Announcement**](https://twitter.com/CheeseYet/status/1240126132416065537) - tweetstorm explaining Collab19.
 
-📃 | [**Forum**](https://forum.collab19.live/t/read-me-collab19-onboarding-and-orientation/17) - learn about the structure of Collab19 and about the projects that may receive funding.
+📃 | [**Forum**](https://forum.collab19.live/t/collab19-release-and-orientation/22) - learn about the structure of Collab19 and about the projects that may receive funding.
 
 🤖 | [**DAO Page**](https://mainnet.aragon.org/#/collab/home/) - use C19 tokens to vote on charities to support
 
