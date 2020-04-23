@@ -6,20 +6,18 @@ Collab 19 is a DAO that fights COV19.
 
 ### Why a DAO?
 
-By creating a decentralized autonomous organizataion (DAO) people from all over the world can come together to fight COV-19. The Collab19 DAO created 1400 C19 tokens. Collab19 kept half and the rest were put on a Uniswap pool. Every week Collab19 will cash out 100 of it's C19 tokens. You can buy these tokens on Uniswap. When you do you become part of Collab19. You can then vote on how to spend the DAO's treasury. Tokens are sold on an open market so you can cash them out at any time or hold them as proof of support.
+By creating a decentralized autonomous organizataion (DAO) people from all over the world can come together to fight COV-19. The Collab19 DAO created a democratic system of participation for anyone who has onboarded via the Collab19_bot interface to vote and democratically decide on how to best distribute funds to people in need.
 
 ### How can you help?
 
-[Buy tokens](https://uniswap.exchange/swap/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0) to help the DAO decide which charities to donate to!
+[Join the DAO](https://t.me/collab19_bot) to help decide which charities to donate to!
 
 ### Info
 
 📢 | [**Twitter Announcement**](https://twitter.com/CheeseYet/status/1240126132416065537) - tweetstorm explaining Collab19.
 
-🦄 | [**Uniswap Exchange Info**](https://uniswap.exchange/swap/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0) - buy C19 tokens to show proof of support.
+📃 | [**Forum**](https://forum.collab19.live/t/read-me-collab19-onboarding-and-orientation/17) - learn about the structure of Collab19 and about the projects that may receive funding.
 
-📊 | [**Market Stats**](https://pools.fyi/#/info/0xb998fe0398fd6d688eddbd1897f87d6131d7ddf7) - see the C19 token market
+🤖 | [**DAO Page**](https://mainnet.aragon.org/#/collab/home/) - use C19 tokens to vote on charities to support
 
-🤖 | [**DAO Page**](https://mainnet.aragon.org/#/collab19/home/) - use C19 tokens to vote on charities to support
-
-💬 | [**Community Chat**](https://t.me/joinchat/HcTaOxhr7mt9K7mBTMxlHw) - drop in, say hi, and help us fight COV-19!
+💬 | [**Public Community Chat**](https://t.me/joinchat/HcTaOxhr7mt9K7mBTMxlHw) - drop in, say hi, and help us fight COV-19!
