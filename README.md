@@ -2,7 +2,7 @@
 
 In an effort to challenge former paradigms, we build Collab19.
 
-“Big philanthropy is often an exercise of power, the conversion of private assets into public influence. And it is a form of power that is largely unaccountable, often perpetual, and lavishly tax-advantaged… Charity, it turns out, does surprisingly little to provide for those in need and sometimes worsens inequality.” – review of [Just Giving](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)by Rob Reich
+“Big philanthropy is often an exercise of power, the conversion of private assets into public influence. And it is a form of power that is largely unaccountable, often perpetual, and lavishly tax-advantaged… Charity, it turns out, does surprisingly little to provide for those in need and sometimes worsens inequality.” – review of [Just Giving](https://press.princeton.edu/books/hardcover/9780691183497/just-giving) by Rob Reich
 
 DAOs are online organizations that provide a way for people to coordinate collective resources in a transparent way.
 
