@@ -1,8 +1,14 @@
 # Collab 19
 
+In an effort to challenge former paradigms, we build Collab19.
+
+“Big philanthropy is often an exercise of power, the conversion of private assets into public influence. And it is a form of power that is largely unaccountable, often perpetual, and lavishly tax-advantaged… Charity, it turns out, does surprisingly little to provide for those in need and sometimes worsens inequality.” – review of Just Giving by Rob Reich
+
+DAOs are online organizations that provide a way for people to coordinate collective resources in a transparent way.
+
 ### What is Collab19?
 
-Collab 19 is a DAO that fights COV19.
+Collab 19 is a DAO built on top of [Ethereum](https://ethereum.org/) that fights COV19.
 
 ### Why a DAO?
 
@@ -18,6 +24,6 @@ By creating a decentralized autonomous organizataion (DAO) people from all over 
 
 📃 | [**Forum**](https://forum.collab19.live/t/collab19-release-and-orientation/22) - learn about the structure of Collab19 and about the projects that may receive funding.
 
-🤖 | [**DAO Page**](https://mainnet.aragon.org/#/collab/home/) - use C19 tokens to vote on charities to support
+🤖 | [**DAO Page**](https://mainnet.aragon.org/#/collab/home/) - the Collab19 DAO is built on an operating system called [Aragon](https://aragon.org). See the interface that monitors proposals, membership, and fund distribution here!
 
 💬 | [**Public Community Chat**](https://t.me/joinchat/HcTaOxhr7mt9K7mBTMxlHw) - drop in, say hi, and help us fight COV-19!
