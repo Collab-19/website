@@ -1,6 +1,6 @@
 # Collab 19
 
-Collab19 was created in an effort to create a better paradigm for fundraising and distribution.
+Collab19 was built in an effort to create a better paradigm for fundraising and distribution.
 
 “Big philanthropy is often an exercise of power, the conversion of private assets into public influence. And it is a form of power that is largely unaccountable, often perpetual, and lavishly tax-advantaged… Charity, it turns out, does surprisingly little to provide for those in need and sometimes worsens inequality.” – review of [Just Giving](https://press.princeton.edu/books/hardcover/9780691183497/just-giving) by Rob Reich
 
