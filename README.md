@@ -8,11 +8,11 @@ DAOs are online organizations that provide a way for people to coordinate collec
 
 ### What is Collab19?
 
-Collab 19 is a DAO built on top of [Ethereum](https://ethereum.org/) that fights COV19.
+Collab 19 is a DAO built on top of [Ethereum](https://ethereum.org/) that fights COVid-19.
 
 ### Why a DAO?
 
-By creating a decentralized autonomous organizataion (DAO) people from all over the world can come together to fight COV-19. The Collab19 DAO created a democratic system of participation for anyone who has onboarded via the Collab19_bot interface to vote and democratically decide on how to best distribute funds to people in need.
+By creating a decentralized autonomous organizataion (DAO) people from all over the world can come together to fight COVid-19. The Collab19 DAO created a democratic system of participation for anyone who has onboarded via the Collab19_bot interface to vote and democratically decide on how to best distribute funds to people in need.
 
 ### How can you help?
 
@@ -26,4 +26,4 @@ By creating a decentralized autonomous organizataion (DAO) people from all over 
 
 🤖 | [**DAO Page**](https://mainnet.aragon.org/#/collab/home/) - the Collab19 DAO is built on an operating system called [Aragon](https://aragon.org). See the interface that monitors proposals, membership, and fund distribution here!
 
-💬 | [**Public Community Chat**](https://t.me/joinchat/HcTaOxhr7mt9K7mBTMxlHw) - drop in, say hi, and help us fight COV-19!
+💬 | [**Public Community Chat**](https://t.me/joinchat/HcTaOxhr7mt9K7mBTMxlHw) - drop in, say hi, and help us fight COVid-19!
