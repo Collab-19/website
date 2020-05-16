@@ -1,6 +1,6 @@
 # Collab 19
 
-### How we began.
+### How we built this.
 
 Collab19 was built as  in an effort to create a better paradigm for fundraising and distribution. 
 
