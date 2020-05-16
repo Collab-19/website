@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: https://uniswap.exchange/swap/0x87d7b6CfAaeC5988FB17AbAEe4C16C3a79ceceB0
+custom: https://pay.sendwyre.com/purchase?destCurrency=DAI&dest=0x66b6FD8097e078CB8E0F7916efB8Be76849B3442&accountId=AC_8MAWQ88LVEA
