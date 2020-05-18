@@ -1,5 +1,7 @@
 # Collab 19
 
+[Join the DAO](https://t.me/collab19_bot) or [Donate DAI!](https://pay.sendwyre.com/purchase?destCurrency=DAI&dest=0x66b6FD8097e078CB8E0F7916efB8Be76849B3442&accountId=AC_8MAWQ88LVEA)
+
 ### How we built Collab19.
 
 Collab19 was built as  in an effort to create a better paradigm for fundraising and distribution. 
